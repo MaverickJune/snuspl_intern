@@ -17,4 +17,7 @@ upload zip file to your aws lambda function, and download rest of the files ad d
 1. do not change any subdirectory name on this project directory, otherwise you will have to change some code
 2. you SHOULD change every path to the files inside iperf3_testing.py to your local machine path
 
+# Special thanks
+1. https://github.com/snuspl/incubator-nemo/blob/master/tools/network_profiling/network_profiling.py
+2. 
 
