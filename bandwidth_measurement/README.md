@@ -6,7 +6,7 @@ measuring bandwidth between lambda instance and ec2 instance
 2. you have to set appropriate IAM roles for each services
 3. you need account that has administrative access
 
-upload zip file to your aws lambda function, and download rest of the files ad directories to your local maching
+upload test_iperf3.zip file to your aws lambda function, and download rest of the files ad directories to your local maching
 
 # How does it work
 1. iperf3_testing.py invoke aws lambda function, and make ssh connection to ec2 instance
